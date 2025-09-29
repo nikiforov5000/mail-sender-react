@@ -1,4 +1,5 @@
 {
+  "homepage": "https://mydomen.kz/phpmailer",
   "name": "mail-sender-react",
   "version": "0.1.0",
   "private": true,

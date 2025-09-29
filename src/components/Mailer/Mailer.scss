@@ -1,0 +1,10 @@
+.mailer {
+  display: flex;
+  flex-flow: column;
+  width: 300px;
+
+  .email-input-container {
+    display: flex;
+    flex-flow: row;
+  }
+}
